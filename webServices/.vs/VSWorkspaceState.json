@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebServices.Persona",
+    "\\WebServices.Persona\\BLL",
+    "\\WebServices.Persona\\Model",
+    "\\WebServices.Persona\\SqlDal"
+  ],
+  "SelectedNode": "\\WebServices.Persona\\WsInformacionRol.asmx.cs",
+  "PreviewInSolutionExplorer": false
+}
